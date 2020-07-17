@@ -1,0 +1,23 @@
+#favicon-creds
+{
+   font-size: 0.6em;
+   opacity: 0.3;
+}
+
+footer{
+   font-size: 1.2em;
+   font-style: italic;
+   font-weight: bolder;
+   border-top: #78909c solid;
+   padding-top: 0.5em;
+   padding-bottom: 0.5em;
+   padding-left: 1em;
+   margin-top: 1.5em;
+   width: 18em;
+   color: #546e7a;
+
+}
+
+.heart{
+   color: #e91e63;
+}

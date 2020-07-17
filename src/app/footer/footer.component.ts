@@ -9,6 +9,10 @@ export class FooterComponent implements OnInit {
 
   constructor() { }
 
+  date = new Date();
+  name = "Greg Knott";
+  studentID = "991514431";
+
   ngOnInit(): void {
   }
 
